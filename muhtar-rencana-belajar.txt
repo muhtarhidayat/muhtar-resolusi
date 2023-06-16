@@ -5,4 +5,10 @@ RENCANA BELAJAR MUHTAR
     > Belajar dari online course 
 - BELAJAR MEMBUAT REST CLIENT MENGGUNAKAN LARAVEL
   * Menggunakan salah satu library laravel
-
+    > Belajar dari Youtuber Indonesia
+    > Belajat dari Course Online
+- BELAJAR MEMBUAT REST CLIENT MENGGUNAKAN LARAVEL
+  * Menggunakan salah satu library laravel
+- BELAJAR MONGODB
+  * Belajar dari Youtuber Indonesia
+- BELAJAR PYTON
